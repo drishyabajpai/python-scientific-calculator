@@ -2,7 +2,7 @@ import math
 
 def welcome():
     print("===================================")
-    print("   Welcome to Python Calculator    ")
+    print(" ************  Welcome to Python Calculator ************    ")
     print("   Supports Scientific Functions   ")
     print("===================================\n")
 
