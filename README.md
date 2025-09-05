@@ -19,4 +19,3 @@ This calculator runs in the **console/terminal** and supports both **basic arith
 
 ---
 
-## 📂 Project Structure
